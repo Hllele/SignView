@@ -3,4 +3,14 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="oneColor">#B9DEF1</color>
+    <color name="twoColor">#63B9E7</color>
+    <color name="threeColor">#29A1E1</color>
+    <color name="roundColor">#F5AC20</color>
+    <color name="signDaysColor">#FFED97</color>
+    <color name="lineColor">#29A1E1</color>
+    <color name="textColor">#8F8F8F</color>
+    <color name="white">#FFFFFF</color>
+
 </resources>

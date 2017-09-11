@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">Sign</string>
+
+    <string name="sign_1">连续签到</string>
+    <string name="sign_2">天</string>
+    <string name="sign_3">积分</string>
+    <string name="day_1">第1天</string>
+    <string name="day_2">第2天</string>
+    <string name="day_3">第3天</string>
+    <string name="day_4">第4天</string>
+    <string name="day_5">第5天</string>
+    <string name="day_6">第6天</string>
+    <string name="day_7">第7天</string>
+    <string name="day_8">第8天</string>
+    <string name="day_9">第9天</string>
+    <string name="day_10">第10天</string>
+    <string name="day_11">第11天</string>
+    <string name="day_12">第12天</string>
+    <string name="day_13">第13天</string>
+    <string name="day_14">第14天</string>
+    <string name="day_15">第15天</string>
 </resources>
