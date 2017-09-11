@@ -106,7 +106,8 @@ public class SignLinesView extends View {
         drawText(canvas,""+getResources().getString(R.string.day_15),centerX+4*radius+2*linesWidth,centerY+4*radius+linesWidth+10);
 
 
-        Bitmap bm = BitmapFactory.decodeResource(MyApplication.getContext().getResources(),R.mipmap.prosperity);
+        Bitmap bm = BitmapFactory.decodeResource(MyApplication.getContext().getResources(),R.mipmap.pros);
+
 
         switch (signDays){
             case 0:
